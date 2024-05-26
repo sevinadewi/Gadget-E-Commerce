@@ -1,0 +1,49 @@
+.awal{
+  margin: auto;
+  display: flex; /*tampilan div berbentuk kolom*/
+  margin-bottom: 50px;
+}
+
+.opening{
+  margin-top: 200px;
+  padding-left: 150px;
+}
+
+.gambar{
+	width: 50%;
+	margin-left: 100px;
+	margin-top: 100px;
+}
+.gambar img{
+	height: 500px;
+}
+
+.kolom{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  width: 50%;
+}
+
+.opening .deskripsi{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'comic sans-ms';
+  color: black;
+}
+
+a.tombol{
+  background: salmon;
+  border-radius: 20px;
+  margin-top: 20px;
+  padding: 15px 20px 15px 20px;
+  color: whitesmoke;
+  cursor: pointer;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a.tombol:hover{
+  background: gray;
+}

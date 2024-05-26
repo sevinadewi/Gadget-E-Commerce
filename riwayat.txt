@@ -1,0 +1,24 @@
+Barang: Iphone 14 pro
+Jumlah: 2
+Total: 28000000
+Barang: Apple Airpods Max
+Jumlah: 1
+Total: 7000000
+Barang: Galaxy M14 5G
+Jumlah: 2
+Total: 10000000
+Barang: LG Monitor LED 20MK400A-B
+Jumlah: 2
+Total: 2000000
+Barang: Lenovo Yoga Slim 7i Pro
+Jumlah: 1
+Total: 17500000
+Barang: Apple Airpods Max
+Jumlah: 1
+Total: 7000000
+Barang: Xiaomi Redmi Note 11
+Jumlah: 1
+Total: 3000000
+Barang: Iphone 14 pro
+Jumlah: 2
+Total: 28000000

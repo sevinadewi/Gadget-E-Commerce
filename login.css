@@ -1,0 +1,55 @@
+body {
+  /*background: #d1bea8;*/
+  background: rgb(214,201,169);
+background: linear-gradient(0deg, rgba(214,201,169,1) 0%, rgba(203,193,167,1) 0%, rgba(241,215,193,1) 1%, rgba(94,90,81,1) 100%);
+  font-family: sans-serif;
+}
+ 
+h2 {
+  color: #fff;
+}
+ 
+.login {
+
+  padding: 1em;
+  padding-top: 50px;
+  margin: 8em auto;
+  width: 17em;
+  background: #fff;
+  border-radius: 3px;
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+
+.judul{
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+ 
+label {
+  font-size: 10pt;
+  color: #555;
+}
+ 
+input[type="text"],
+input[type="password"]{
+  padding: 8px;
+  width: 95%;
+  background: #efefef;
+  border: 0;
+  font-size: 10pt;
+  margin: 6px 0px;
+}
+
+
+ 
+.tombol {
+  /*background: #3498db;*/
+  background: rgb(193,183,171);
+background: linear-gradient(90deg, rgba(193,183,171,1) 0%, rgba(180,158,134,1) 35%, rgba(145,130,102,1) 100%);
+  color: #fff;
+  border: 0;
+  padding: 5px 10px;
+  width: 100%;
+
+
+}
